@@ -2,7 +2,7 @@ package repository
 
 import (
 	"encoding/json"
-	"estudosGo/model"
+	"estudosGo/internal/model"
 	"fmt"
 	"os"
 )

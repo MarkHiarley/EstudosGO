@@ -1,7 +1,7 @@
 package main
 
 import (
-	"estudosGo/controller"
+	"estudosGo/internal/controller"
 
 	"github.com/gin-gonic/gin"
 )

@@ -1,7 +1,7 @@
 package controller
 
 import (
-	"estudosGo/repository"
+	"estudosGo/internal/repository"
 	"fmt"
 	"net/http"
 
